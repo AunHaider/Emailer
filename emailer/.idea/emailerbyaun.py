@@ -2,10 +2,7 @@
 import smtplib
 
 def get_emails():
-    emails = {'aunhaider.it@gmail.com' : 'Aun Haider lexicon', 'mmj_judy@yahoo.com' : 'Mohammed',
-              'tarikdoha80@gmail.com' : 'Tarek Doha', 'shadi21985@gmail.com' : 'Shadi Abo Alnaser',
-              'Linus.Goransson@lexicon.se' : 'Linus', 'johan.peyron@gmail.com' : 'Johan Peyron',
-              'marcus.gyllencreutz@lexicon.se' : 'Marcus',  'evedat@gmail.com' : 'Vedet'}
+    emails = {'aunhaider.it@gmail.com' : 'Aun Haider'}
 
     return emails
 
